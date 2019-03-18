@@ -1,6 +1,6 @@
 
 package healthcaresystem;
-
+import java.util.HashMap;
 /**
  * The Report class will consist of createReport, viewReport, and editReport public functions
  * 
@@ -17,6 +17,7 @@ public class Report {
     private String reportText;
     private String date;
     private int reportID;
+    private HashMap<String, Integer> reportValueMap;
     
     public Report(String reportText, String date, int reportID) {
         this.date = date;
@@ -54,5 +55,9 @@ public class Report {
             ex.printStackTrace();
             return false;
         }  
+    }
+    
+    public HashMap<String, Integer> getValueMap() {
+        return reportValueMap;
     }
 }

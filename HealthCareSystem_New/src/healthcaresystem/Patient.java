@@ -60,6 +60,10 @@ public class Patient {
         this.earlyWarning = addedEarlyWarning;
         System.out.println("Early warning added");
     }
+    
+    public String getName() {
+        return patientName;
+    }
 
     
 }
