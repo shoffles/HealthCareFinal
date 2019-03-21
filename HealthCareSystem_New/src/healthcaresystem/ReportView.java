@@ -11,8 +11,19 @@ package healthcaresystem;
  */
 public class ReportView {
     
-    public ReportView() {
+    private Report report;
+    private User user;
+    private Patient patient;
+    
+    public ReportView(Report newReport, User newUser, Patient newPatient) {
         System.out.println("ReportView running");
+        report = newReport;
+        user = newUser;
+        patient = newPatient;
+    }
+    
+    public void getTieredReport() {
+        ReportReaderFactory RRF = new ReportReaderFactory(user, report, patient);
     }
     
 }

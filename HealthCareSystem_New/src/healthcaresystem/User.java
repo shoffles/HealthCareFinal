@@ -64,4 +64,7 @@ public class User {
         return match;
     }
     
+    public int getUserType() {
+        return userType;
+    }
 }

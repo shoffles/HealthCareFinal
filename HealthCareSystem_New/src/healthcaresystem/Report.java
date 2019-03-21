@@ -57,7 +57,15 @@ public class Report {
         }  
     }
     
+    public void populateValueFromForm(HashMap<String, Integer> valueMap) {
+        reportValueMap = valueMap;
+    }
+    
     public HashMap<String, Integer> getValueMap() {
         return reportValueMap;
     }
+    
+    
+        
+    
 }
