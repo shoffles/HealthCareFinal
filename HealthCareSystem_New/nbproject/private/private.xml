@@ -3,14 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/MedicalProReportCreator.java</file>
             <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/User.java</file>
-            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/ReportReaderFactory.java</file>
-            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/MedicalProReport.java</file>
             <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/README.txt</file>
-            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/DoctorReport.java</file>
-            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/DoctorReportCreator.java</file>
             <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/ReportView.java</file>
+            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/DoctorReportView.java</file>
+            <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/MedProfView.java</file>
             <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/Patient.java</file>
             <file>file:/C:/Users/konno/OneDrive/Documents/GitHub/HealthCareFinal/HealthCareSystem_New/src/healthcaresystem/Report.java</file>
         </group>
